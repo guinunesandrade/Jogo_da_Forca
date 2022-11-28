@@ -1,0 +1,17 @@
+{
+  "Palavras": {
+    "Casa": {
+      "Movel": [
+    "Sofa", "Mesa", "Cadeira", "Computador", "Banquinho", "Geladeira", "Forno",
+      "Microondas"]
+    },
+    "Supermercado": {
+      "Produto": ["Carne", "Frango", "Peixe", "Arroz", "Bolacha", "Biscoito", "Molho", "Leite", "Ovo",
+        "Milho", "Manteiga", "Farinha", "Iogurte", "Amaciante", "Detergente", "Esponja", "Inseticida", "Sabonete",
+      "Condicionador", "Shampoo", "Guardanapo", "Hortaliças", "Fermento", "Desinfetante", "Gaze", "Desodorante"]
+    },
+    "Saude": {
+      "Profissão": ["Enfermeiro", "Fisioterapeuta", "Nutricionista", "Dentista", "Terapeuta"]
+    }
+  }
+}
