@@ -1,8 +1,7 @@
 {
   "Palavras": {
     "Casa": {
-      "Movel": [
-    "Sofa", "Mesa", "Cadeira", "Computador", "Banquinho", "Geladeira", "Forno",
+      "Movel": ["Mesa", "Cadeira", "Computador", "Banquinho", "Geladeira", "Forno",
       "Microondas"]
     },
     "Supermercado": {
