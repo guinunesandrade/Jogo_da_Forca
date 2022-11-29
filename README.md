@@ -15,7 +15,7 @@
 - `SQLite`
 - `IDE qualquer (Pycharm, Atom, VS Code, etc)`
 
-<h3>:warning: Bibliotecas utilizadas: </h3>
+<h3>:books: Bibliotecas utilizadas: </h3>
 
 - `json`
 - `random`
