@@ -1,5 +1,6 @@
 from Funções import *
 
+# Funcionamento do jogo
 try:
     tabela_usuarios('Jogadores.sqlite')
     préjogo()
